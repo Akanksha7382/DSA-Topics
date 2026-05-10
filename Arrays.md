@@ -4,7 +4,7 @@
 
 arr = [10, 20, 30, 40]
 Index starts from 0
-arr[0] = 10, arr[1] = 20
+arr[0] = 10, arr[1] = 20 
 
 
 ##  Key Properties
