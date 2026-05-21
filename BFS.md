@@ -3,7 +3,6 @@
 ## 🔹 What is BFS?
 
 BFS stands for:
-
 ```text id="7w2jkc"
 Breadth First Search
 ```
