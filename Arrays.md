@@ -9,7 +9,7 @@ arr[0] = 10, arr[1] = 20
 
 ##  Key Properties
 - Same data type (usually)
-- Fixed order
+- Fixed order 
 - Fast access using index
 
 ## Basic Operations
